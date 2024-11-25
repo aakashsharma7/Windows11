@@ -1,15 +1,14 @@
 <div align="center">
  <h1> <img src="https://win.itsvg.in/logo.png" width="80px"><br/>Windows 11</h1>
- <a href="https://www.buymeacoffee.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <img src="https://img.shields.io/npm/v/npm?style=normal"/>
  <img src="https://img.shields.io/website?style=normal&url=https%3A%2F%2Fwin.itsvg.in/"/> 
  <img src="https://img.shields.io/badge/License-Apache%202-brightgreen?style=normal"/>
- <img src="https://img.shields.io/github/languages/code-size/VishwaGauravIn/windows11?logo=github&style=normal"/>
+ <img src="https://img.shields.io/github/languages/code-size/aakashhsharma7/windows11?logo=github&style=normal"/>
 </div>
 <br/>
 
 <div align="center">
-  <b>Windows 11 made with 💛 using NextJS and TailwindCSS by Vishwa Gaurav.</b>
+  <b>Windows 11 made with 💛 using NextJS and TailwindCSS by Aakash Sharma.</b>
 </div>
 
 # ScreenShots
