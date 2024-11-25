@@ -3,7 +3,7 @@
  <img src="https://img.shields.io/npm/v/npm?style=normal"/>
  <img src="https://img.shields.io/website?style=normal&url=https%3A%2F%2Fwin.itsvg.in/"/> 
  <img src="https://img.shields.io/badge/License-Apache%202-brightgreen?style=normal"/>
- <img src="https://img.shields.io/github/languages/code-size/aakashhsharma7/windows11?logo=github&style=normal"/>
+ <!-- <img src="https://img.shields.io/github/languages/code-size/aakashhsharma7/windows11?logo=github&style=normal"/> -->
 </div>
 <br/>
 
